@@ -2,4 +2,4 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 
 
 
-/android  ./gradlew assembledebug
+/android  ./gradlew assembleDebug
